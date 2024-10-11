@@ -4,7 +4,7 @@ Hi 👋 My name is Tomek
 * 🌍  I'm based in Kraków, Poland
 * 🖥️  See my portfolio at [github](http://github.com/bielawskit?tab=repositories)
 * ✉️  You can contact me at [tomasz.bielawski97@gmail.com](mailto:tomasz.bielawski97@gmail.com)
-* 🚀  I'm currently working on [Reservation](http://github.com/bielawskit/Reservation-)
+* 🚀  I'm currently working on []()
 * 🧠  I'm learning Flask, Django
 
 ### Skills
